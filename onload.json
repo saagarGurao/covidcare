@@ -10,6 +10,12 @@
             "name": "Vaccinate Me",
             "link": "https://www.vaccinateme.in/",
             "imgName": "vaccine.png"
-        }
+        },
+          {
+            "name": "Vaccinate Me",
+            "link": "https://www.vaccinateme.in/",
+            "imgName": "vaccine.png"
+        },
+        
     ]
 }
